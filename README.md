@@ -24,4 +24,5 @@ I'm Ruscarelys Canizalez (Rus✨) <br>
 # 👷🏽‍♀️ Projects
 <a href="http://www.shokuji.me/" alt="Shokuji">Shokuji</a> <br>
 <a href="https://rentacheff.herokuapp.com" alt="Rent-a-Chef">Rent a Chef</a>
-
+# 
+[![Github](https://img.shields.io/github/followers/ruscarelysc?label=Follow&style=social)](https://github.com/ruscarelysc)
