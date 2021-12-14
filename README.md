@@ -1,6 +1,9 @@
 # Hi there! 👋🏽
 I'm Ruscarelys Canizalez (Rus✨) <br>
-Just finish my first course in Tech, now I'm a Full Stack Junior Developer 😎
+<p>
+ I just finished my first technology course at Le Wagon Melbourne. Now I am a Full Stack developer 😎 <br>
+ Looking for my first job in the industry where I can continue learning because this path is just beginning!
+ </p>
 
 # 🛠 Tools
 <p align="center">
@@ -17,3 +20,8 @@ Just finish my first course in Tech, now I'm a Full Stack Junior Developer 😎
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" alt="Heroku" height="40" style="vertical-align:top; margin:4px">
 </p>
+
+# 👷🏽‍♀️ Projects
+<a href="http://www.shokuji.me/" alt="Shokuji">Shokuji</a> <br>
+<a href="https://rentacheff.herokuapp.com" alt="Rent-a-Chef">Rent a Chef</a>
+
